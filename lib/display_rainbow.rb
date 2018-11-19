@@ -7,6 +7,6 @@
 # 6. Submit the lab.
 
 
-def display_rainbow(colors)
-  
+def display_rainbow(colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
+
 end
