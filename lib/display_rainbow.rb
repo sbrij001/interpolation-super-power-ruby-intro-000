@@ -6,7 +6,8 @@
 # 5. Run `learn` locally until you pass.
 # 6. Submit the lab.
 
-colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+
 def display_rainbow(colors)
+  colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
   "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, I: #{colors[5]}, V: #{colors[6]}"
 end
